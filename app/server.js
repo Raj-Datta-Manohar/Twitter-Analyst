@@ -7,4 +7,7 @@ app.set('views', __dirname + './../public/views');
 
 express.static(express.static(__dirname + '/../public'));
 
+require('./database.js');
+require('./routes.js');
+
 module.exports = app;

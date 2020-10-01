@@ -9,6 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "lokijs": "^1.5.11",
+    "nodemon": "^2.0.4",
+    "twitter": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raj-Datta-Manohar/Twitter-Analyst.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Raj-Datta-Manohar/Twitter-Analyst/issues"
+  },
+  "homepage": "https://github.com/Raj-Datta-Manohar/Twitter-Analyst#readme"
 }
